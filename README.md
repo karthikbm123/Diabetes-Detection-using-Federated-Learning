@@ -1,1 +1,4 @@
+Diabetes Detection using Federated Learning
+
+
 A privacy-preserving ML model for diabetes prediction using Federated Learning and TensorFlow. Trains across distributed datasets without centralizing sensitive health data. Flask APIs provide secure access for prediction. Published in 2025, this project supports healthcare institutions in collaborative research while maintaining patient privacy
